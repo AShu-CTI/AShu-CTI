@@ -4,7 +4,7 @@
 
 Location: Sirius, Krasnodarskiy Region, Russia
 
-My Favorite Fluorophore/Metal-Isotope: RealBlue 705
+My Favorite Fluorophore: RealBlue 705
 
 Previous Coding Experience: Repeatedly Calling IT
 
