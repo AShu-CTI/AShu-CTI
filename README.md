@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### Cytometry In R
+
+Location: Sirius, Krasnodarskiy Region, Russia
+
+My Favorite Fluorophore/Metal-Isotope: RealBlue 705
+
+Previous Coding Experience: Repeatedly Calling IT
+
+What I Hope to Get From This Course: To understand what to do with FC data in R
 <!--
 **AShu-CTI/AShu-CTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
